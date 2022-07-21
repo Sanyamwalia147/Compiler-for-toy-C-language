@@ -9,8 +9,6 @@ README file
  FILES: This directory contains the following files-
         cucu.l
         cucu.y
-        Sample1.cu - File containing Lexically and Suntactically correct code
-        Sample2.cu - File containing invalid code (Lexically or Suntactically)
         README.txt	    
 	
 --------------------------------------------------------------------------------------------------------
